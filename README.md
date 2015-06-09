@@ -1,2 +1,2 @@
-# chartspotting
+# Chartspotting
 Chartspotting.com charts
